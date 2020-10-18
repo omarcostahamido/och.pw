@@ -1,6 +1,8 @@
 # och.pw
 This repo hold the static page being server at [och.pw](http://och.pw). 
 
+<br>
+
 och.pw is full stack quacktrip server open to public from Oct 18th to Dec 30th.
 
 You can find more info about deploying your own cloud server here:
@@ -8,7 +10,9 @@ You can find more info about deploying your own cloud server here:
 - [music101-server-AWS-EC2.md](https://github.com/omarcostahamido/One-Quick-Solution_Patches/blob/master/Other/music101-server-AWS-EC2.md)
 - [music101-server-linode.md](https://github.com/omarcostahamido/One-Quick-Solution_Patches/blob/master/Other/music101-server-linode.md)
 
-Tips:
+<br>
+
+### Tips:
 
 - download a zip file with this repo's content directly to your machine using:
 
