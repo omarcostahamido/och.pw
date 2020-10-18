@@ -18,6 +18,7 @@ You can find more info about deploying your own quacktrip cloud server here:
 
   `wget https://github.com/omarcostahamido/och.pw/archive/main.zip`
 - move things around in the terminal using the `mv` command
+  `mv file-or-folder-original-path destination-path`
   - you can also rename files and folders using the `mv` command!
 - edit the files directly in the terminal using `vi`
   - `:q` to quit vi
