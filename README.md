@@ -28,6 +28,7 @@ You can find more info about deploying your own quacktrip cloud server here:
     - `esc` to exit edit mode
   - note: you cannot use the first 2 commands when in edit mode.
 - you can serve a static page in http using `python3 -m http.server`
+- there might some interesting insights to be gained from the start script [here](https://github.com/corrados/jamulus/wiki/Server---Linux)
 
 <br>
 <br>
