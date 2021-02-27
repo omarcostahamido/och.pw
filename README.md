@@ -1,5 +1,5 @@
 # och.pw
-This repo hold the static page being server at [och.pw](http://och.pw). 
+This repo hold the Music 47 version of static page being server at [och.pw](http://www.och.pw). 
 
 <br>
 
